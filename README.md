@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [emanuelsuarez.com](emanuelsuarez.com)
 
-- 💬 Ask me about **React - Javascript**
+- 💬 Ask me about **React - Javascript** - Blockchain**
 
 - 📫 How to reach me **braianesuarez@gmail.com**
 

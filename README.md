@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [FlipWeb Co](https://flipwebco.com)
 
-- 🌱 I’m currently learning **Firebase - React Native - Product Management**
+- 🌱 I’m currently learning **Firebase - React Native - Nextjs - Cartesi**
 
 - 👨‍💻 All of my projects are available at [emanuelsuarez.com](emanuelsuarez.com)
 

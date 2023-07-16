@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **braianesuarez@gmail.com**
 
-- 📄 Know about my experiences [emanuelsuarez.com/resume](emanuelsuarez.com/resume)
+- 📄 Know about my experiences [emanuelsuarez.com/resume](https://linkedin.com/in/emanuelsuarez)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

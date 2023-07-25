@@ -13,6 +13,18 @@
 
 - 📄 Know about my experiences [emanuelsuarez.com/resume](https://linkedin.com/in/emanuelsuarez)
 
+- ### Badges
+
+<b>My GitHub Stats</b>
+<p align="center" >
+<a href="http://www.github.com/EmanuelSuarez"><img src="https://github-readme-stats.vercel.app/api?username=Matiaspp96&show_icons=true&hide=stars,issues,contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="EmanuelSuarez's GitHub stats" /></a>
+<p align="center" > 
+<a href="http://www.github.com/EmanuelSuarez"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Matiaspp96&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<p align="center" > 
+<a href="https://github.com/EmanuelSuarez" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matiaspp96&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+</p>
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/emanuelsuarez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emanuelsuarez" height="30" width="40" /></a>

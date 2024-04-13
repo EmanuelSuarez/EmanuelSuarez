@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Emanuel Suarez</h1>
-<h3 align="center">A passionate frontend developer from Argentina</h3>
+<h3 align="center">A passionate Software developer from Argentina</h3>
 
 - 🔭 I’m currently working on [FlipWeb Co](https://flipwebco.com)
 
-- 🌱 I’m currently learning **Firebase - React Native - Nextjs - Cartesi**
+- 🌱 I’m currently learning **AWS - React Native - Nextjs**
 
 - 👨‍💻 All of my projects are available at [emanuelsuarez.com](emanuelsuarez.com)
 
-- 💬 Ask me about **React - Javascript - Blockchain**
+- 💬 Ask me about **React - Javascript - AWS**
 
 - 📫 How to reach me **braianesuarez@gmail.com**
 

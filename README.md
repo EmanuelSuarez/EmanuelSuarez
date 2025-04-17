@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [FlipWeb Co](https://flipwebco.com)
 
-- 🌱 I’m currently learning **AWS - React Native - Nextjs**
+- 🌱 I’m currently learning **AWS - AI**
 
 - 👨‍💻 All of my projects are available at [emanuelsuarez.com](emanuelsuarez.com)
 
